@@ -18,4 +18,6 @@ public class User {
 	private int id;
 	private String user;
 	private String password;
+	private boolean admin;
+	private boolean authenticated;
 }
